@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kaan 👋
 
-<!--
-**ydnka/ydnka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Administration (BWL) student in Frankfurt, interested in where **finance meets technology**.
 
-Here are some ideas to get you started:
+### 🔭 Currently learning
+- **Tech:** Git & GitHub, Python basics, HTML/CSS/JavaScript
+- **Finance & Economics:** Accounting, macroeconomics, business mathematics
+- **Business IT:** Wirtschaftsinformatik – how software supports business processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Working on
+- **FX Pulse** – a simple currency exchange dashboard (Frankfurter API)
+- **Portfolio website** – my personal site
+
+### 💡 Interests
+Fintech · Personal finance · Data & dashboards · Automation
+
+### 🗣️ Languages
+Turkish · German · English
